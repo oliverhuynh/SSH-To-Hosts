@@ -1,5 +1,6 @@
+# SSH-To-Hosts
 
-This projects is for syncing ~/.ssh/config instances to /etc/hosts file for the domain to ip mapping
+This project is for syncing ~/.ssh/config instances to /etc/hosts file for the domain to ip mapping
 
 Ex: Your .con
 Host Abc.xyz
@@ -15,4 +16,6 @@ record
 - exec.sh
 
 # Notes
-- Careful, it will add entries to /etc/hosts# SSH-To-Hosts
+- Careful, it will add entries to /etc/hosts
+
+
