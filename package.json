@@ -1,0 +1,22 @@
+{
+  "name": "ssh-to-hosts",
+  "version": "1.0.0",
+  "description": "This projects is for syncing ~/.ssh/config instances to /etc/hosts file for the domain to ip mapping",
+  "main": "ssh-to-hosts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverhuynh/SSH-To-Hosts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverhuynh/SSH-To-Hosts/issues"
+  },
+  "homepage": "https://github.com/oliverhuynh/SSH-To-Hosts#readme",
+  "dependencies": {
+    "oliver-framework": "git@github.com:antbuddy-share/oliver-framework.git"
+  }
+}
